@@ -59,6 +59,7 @@ my example, [dtmf_1234____1111_____9591____4567____9999.wav](dtmf_1234____1111__
   
 ### how to test
 connect arduino NANO, build the simple circuit  
+turn 10K VR, uses DMM to visual around 0.55v, (ADC VREF / 2 = 1.1V / 2 = 0.55V)  
 PC / earphone output, L or R connect to 0.47uF capacitor as single input  
 play the wave file, [dtmf_1234____1111_____9591____4567____9999.wav](dtmf_1234____1111_____9591____4567____9999.wav)  
 open ARduino IDE and termial, see the output  
