@@ -4,6 +4,8 @@ author's git https://github.com/qrpfun/DTMF_Decoder
 
 
 ### no uses and did not have the LCD display, but required to install library of ug8lib in order to complie the code
+the test circuit and scematic,
+![DTMF_Decoder_test_circuit.JPG](DTMF_Decoder_test_circuit.JPG)  
 
 
 
