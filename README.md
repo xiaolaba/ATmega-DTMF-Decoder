@@ -5,7 +5,9 @@ author's git https://github.com/qrpfun/DTMF_Decoder
 
 ### no uses and did not have the LCD display, but required to install library of ug8lib in order to complie the code
 the test circuit and scematic,
-some info about [sound input & RC filter](https://xiaolaba.wordpress.com/2020/06/21/attiny13-class-d-amp-%e9%96%8b%e9%97%9c%e5%bc%8f%e9%9f%b3%e9%9f%bf%e6%94%be%e5%a4%a7%e5%99%a8/) & [DTMF decoding](https://xiaolaba.wordpress.com/2013/04/19/dtmf-%e9%9b%99%e9%9f%b3%e8%be%a8%e8%99%9f-%e8%a7%a3%e7%a2%bc-%e5%88%b0%e5%ba%95%e7%94%9a%e9%ba%bc%e6%98%af-%e9%a0%bb%e5%9f%9f-frequency-domain-%e5%92%8c-%e6%99%82%e5%9f%9f-time-domain/)  
+some info about,  
+[sound input & RC filter](https://xiaolaba.wordpress.com/2020/06/21/attiny13-class-d-amp-%e9%96%8b%e9%97%9c%e5%bc%8f%e9%9f%b3%e9%9f%bf%e6%94%be%e5%a4%a7%e5%99%a8/)  
+[DTMF decoding](https://xiaolaba.wordpress.com/2013/04/19/dtmf-%e9%9b%99%e9%9f%b3%e8%be%a8%e8%99%9f-%e8%a7%a3%e7%a2%bc-%e5%88%b0%e5%ba%95%e7%94%9a%e9%ba%bc%e6%98%af-%e9%a0%bb%e5%9f%9f-frequency-domain-%e5%92%8c-%e6%99%82%e5%9f%9f-time-domain/)  
 ![DTMF_Decoder_test_circuit.JPG](DTMF_Decoder_test_circuit.JPG)  
 
 
