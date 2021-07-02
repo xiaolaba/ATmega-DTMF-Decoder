@@ -52,7 +52,6 @@ some info about,
     }
   ```
   
-  
 ### prepare the own DTMF wave file, to play by PC and sound card output
 https://www.audiocheck.net/audiocheck_dtmf.php  
 my example, [dtmf_1234____1111_____9591____4567____9999.wav](dtmf_1234____1111_____9591____4567____9999.wav)   
@@ -63,6 +62,8 @@ my example, [dtmf_1234____1111_____9591____4567____9999.wav](dtmf_1234____1111__
 3. PC / earphone output, L or R connect to 0.47uF capacitor as single input  
 4. play the wave file, [dtmf_1234____1111_____9591____4567____9999.wav](dtmf_1234____1111_____9591____4567____9999.wav)  
 5. open ARduino IDE and termial, see the output  
+
+### 
 ![DTMF_Decoder_test_done.JPG](DTMF_Decoder_test_done.JPG)  
   
   
