@@ -58,11 +58,11 @@ https://www.audiocheck.net/audiocheck_dtmf.php
 my example, [dtmf_1234____1111_____9591____4567____9999.wav](dtmf_1234____1111_____9591____4567____9999.wav)   
   
 ### how to test
-connect arduino NANO, build the simple circuit  
-turn 10K VR, uses DMM to visual around 0.55v, (ADC VREF / 2 = 1.1V / 2 = 0.55V)  
-PC / earphone output, L or R connect to 0.47uF capacitor as single input  
-play the wave file, [dtmf_1234____1111_____9591____4567____9999.wav](dtmf_1234____1111_____9591____4567____9999.wav)  
-open ARduino IDE and termial, see the output  
+1. connect arduino NANO, build the simple circuit  
+2. turn 10K VR, uses DMM to visual around the trim 0.55v, (ADC VREF is 1.1V, bias ADC mid point of 0.55v = 1.1V / 2, then the singal could be used & span of full range for ADC0 or A0 of Arduino NANO)  
+3. PC / earphone output, L or R connect to 0.47uF capacitor as single input  
+4. play the wave file, [dtmf_1234____1111_____9591____4567____9999.wav](dtmf_1234____1111_____9591____4567____9999.wav)  
+5. open ARduino IDE and termial, see the output  
 ![DTMF_Decoder_test_done.JPG](DTMF_Decoder_test_done.JPG)  
   
   
