@@ -1,3 +1,7 @@
+# ATmega8-DTMF-Decoder
+another copy
+
+
 # ATmega328-DTMF-Decoder  
 copy http://qrp.valtellina.net/home/atmega328-DTMF-decoder, changed a bit for quick testing, no fork  
 author's git https://github.com/qrpfun/DTMF_Decoder  
