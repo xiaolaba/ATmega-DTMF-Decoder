@@ -1,5 +1,5 @@
 # ATmega8-DTMF-Decoder
-another copy
+another copy [DTMF_mega8](DTMF_mega8)
 
 
 # ATmega328-DTMF-Decoder  
