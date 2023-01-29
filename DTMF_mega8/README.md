@@ -1,5 +1,5 @@
-review and port testing  
-host the code  
+review and port testing done in year 2013.
+host the actual code here.   
 
 oroginal author and the theory, still the same DFT and specific DTMF decoding scheme, part of open source code only.   
 [theory](theory)  
