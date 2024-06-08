@@ -3,7 +3,7 @@ another copy [DTMF_mega8](DTMF_mega8)
 
 
 # ATmega328-DTMF-Decoder  
-copy http://qrp.valtellina.net/home/atmega328-DTMF-decoder, changed a bit for quick testing, no fork  
+copy ~~http://qrp.valtellina.net/home/atmega328-DTMF-decoder~~, https://www.qrpfun.it/arduino/atmega328-DTMF-decoder, changed a bit for quick testing, no fork  
 author's git https://github.com/qrpfun/DTMF_Decoder  
 
 
